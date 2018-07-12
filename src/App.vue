@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <router-view/>
+    <h1>Vanessa Was Here</h1>
   </div>
 </template>
 
